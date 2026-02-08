@@ -1,0 +1,11 @@
+# macOS clutter
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the profile folder
+.Spotlight-V100
+.Trashes
